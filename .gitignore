@@ -14,4 +14,7 @@ Saved
 *.xcworkspace
 .vsconfig
 Content/Download/
+Content/Fab/
+Content/Audio/
+Content/StarterContent/
 
